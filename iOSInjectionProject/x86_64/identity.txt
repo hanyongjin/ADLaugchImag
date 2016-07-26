@@ -1,0 +1,2 @@
+/Users/Han/Library/Developer/Xcode/DerivedData/翻转效果-fwuemmcznjfslvdsmnlbshgwuvxw/Build/Products/Debug-iphonesimulator/翻转效果.app
+
